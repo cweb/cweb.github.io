@@ -1,0 +1,4 @@
+url: http://cweb.github.io
+baseurl: /
+author: "Chris Weber"
+markdown: rdiscount
