@@ -26,7 +26,10 @@ href="stylesheets/stylesheet.css">
     <h3> <a name="projects" class="anchor"
         href="#welcome-to-github-pages"><span class="octicon
           octicon-link"></span></a>Projects</h3>
-    <p>TBD: list my projects</p>
+    <h4><a href="unicode-security-guide">The Unicode Security Guide</a></h4>
+    <p>Information for developers and security testers.</p>
+    <h4><a href="wipe-fb">wipe-fb</a></h4>
+    <p>A simple script to automate deleting Facebook activity of choice, such as posts, comments, likes, photos, and friends</p>
 
 </section> </div>
 
