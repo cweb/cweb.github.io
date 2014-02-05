@@ -3,7 +3,7 @@ layout: default
 title: Chris Weber's GitHub webpage 
 ---
 
-# Projects
+## Projects
 Some projects are listed here.
 
 ## [The Unicode Security Guide](unicode-security-guide)

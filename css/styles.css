@@ -156,8 +156,9 @@ img.center {
 header {
   width:800px;
   float:none;
-  position:fixed;
+  position:relative;
   background-color: silver;
+  padding: 10px;
 }
 
 strong {
@@ -170,7 +171,7 @@ section {
   width:700px;
   float:none;
   position: relative;
-  padding-bottom:50px;
+  padding:15px;
 }
 
 small {
@@ -190,6 +191,7 @@ footer {
   position:fixed;
   bottom:50px;
   background-color: silver;
+  padding:10px;
 }
 
 @media print, screen and (max-width: 960px) {
